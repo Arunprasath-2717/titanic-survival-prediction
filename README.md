@@ -11,8 +11,8 @@
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
 
-![Stars](https://img.shields.io/github/stars/YOUR_USERNAME/titanic-survival-prediction?style=social)
-![Forks](https://img.shields.io/github/forks/YOUR_USERNAME/titanic-survival-prediction?style=social)
+![Stars](https://img.shields.io/github/stars/Arunprasath-2717/titanic-survival-prediction?style=social)
+![Forks](https://img.shields.io/github/forks/Arunprasath-2717/titanic-survival-prediction?style=social)
 
 </div>
 
